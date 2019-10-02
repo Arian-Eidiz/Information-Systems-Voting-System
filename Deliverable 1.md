@@ -144,3 +144,8 @@ Notify users so that they can experience the website and give immediate feedback
 Monitor the website for the first 2 weeks of deployment to ensure the website is running smoothly
 Ensure there are no loopholes or vulnerabilities within the voting system
 No SQL attacks, or XSS-based attacks are available on the UMBC sign in interface. 
+
+### Work Plan
+
+![Imgur Image](https://imgur.com/G7HZAHU)
+
