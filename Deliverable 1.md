@@ -1,8 +1,7 @@
 ### Information System Class Voting System 
 
 
-### Cloud Tools
-Team Members:
+### Team Members:
 
 Arian Eidizadeh -Project Manager
 aeidiz1@umbc.edu
