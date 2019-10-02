@@ -147,5 +147,5 @@ No SQL attacks, or XSS-based attacks are available on the UMBC sign in interface
 
 ### Work Plan
 
-![Imgur Image](https://imgur.com/G7HZAHU)
+![Imgur Image](http://imgur.com/G7HZAHU)
 
