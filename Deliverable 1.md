@@ -2,10 +2,11 @@
 
 
 ### Team Members:
-
 Arian Eidizadeh -Project Manager
 aeidiz1@umbc.edu
 301-525-8780 
+My name is Arian Eidizadeh, I am 21 years old and I am currently an Information Systems Major. I have a passion for cybersecurity and I am excited to work on my first project as a Project Manager. 
+
 
 Michael Woldgerima - Developer
 michae11@umbc.edu
@@ -14,18 +15,24 @@ michae11@umbc.edu
 Cyril Fonzock - Software Analyst
 fonzock1@umbc.edu
 240-601-7452
+Hello, My name is Cyril. I am a senior majoring in Information Systems, I am extremely passionate about software development. 
+
 
 Yohannes Feleke - Developer
 yfeleke1@umbc.edu 
 2407846235
+My name is Yohannes Feleke I’m 25 years old and I am a Senior majoring in IS at UMBC
  
 Sanee Patel - Data Analyst
 sanee1@umbc.edu
 443-845-3590
+Hii, my name is Sanee. I am a senior student majoring in Information System with Decision making support certificate
+
  
 Leul Assamenew - System Analyst
 3018256421
 lassam1@umbc.edu
+Hi, my name is leul and I am a senior in Information Systems. I am currently pursuing a track of cyber security or software development after graduation.
 
 
 ### Unique Purpose:
